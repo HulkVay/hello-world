@@ -1,2 +1,2 @@
 # hello-world
-hello,every! I like code.
+hello,everyone! I like code.
